@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067684994282",
+    "project_id": "kptourism-9dd1d",
+    "storage_bucket": "kptourism-9dd1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067684994282:android:e17f6d1b764c0ae1af0b93",
+        "android_client_info": {
+          "package_name": "com.example.kptourism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKKnrh_nw2-89gz8QPVC89OpDhhEHOCXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
